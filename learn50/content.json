@@ -688,6 +688,357 @@
       "audio": "audio/words/word_yasui.mp3",
       "example": "これは安いです。",
       "exampleCn": "这个很便宜。"
+    },
+    {
+      "id": "ie",
+      "jp": "家",
+      "kana": "いえ",
+      "cn": "家 / 房子",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🏠",
+      "scene": "home",
+      "audio": "audio/words/word_ie.mp3",
+      "example": "家は駅の近くです。",
+      "exampleCn": "家在车站附近。"
+    },
+    {
+      "id": "asa",
+      "jp": "朝",
+      "kana": "あさ",
+      "cn": "早上",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🌅",
+      "scene": "home",
+      "audio": "audio/words/word_asa.mp3",
+      "example": "朝、七時に起きます。",
+      "exampleCn": "早上 7 点起床。"
+    },
+    {
+      "id": "yoru",
+      "jp": "夜",
+      "kana": "よる",
+      "cn": "晚上",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🌙",
+      "scene": "home",
+      "audio": "audio/words/word_yoru.mp3",
+      "example": "夜、テレビを見ます。",
+      "exampleCn": "晚上看电视。"
+    },
+    {
+      "id": "okiru",
+      "jp": "起きる",
+      "kana": "おきる",
+      "cn": "起床",
+      "pos": "动词",
+      "level": 2,
+      "emoji": "⏰",
+      "scene": "home",
+      "audio": "audio/words/word_okiru.mp3",
+      "example": "毎朝六時に起きます。",
+      "exampleCn": "每天早上 6 点起床。"
+    },
+    {
+      "id": "neru",
+      "jp": "寝る",
+      "kana": "ねる",
+      "cn": "睡觉",
+      "pos": "动词",
+      "level": 2,
+      "emoji": "🛏️",
+      "scene": "home",
+      "audio": "audio/words/word_neru.mp3",
+      "example": "夜、十一時に寝ます。",
+      "exampleCn": "晚上 11 点睡觉。"
+    },
+    {
+      "id": "taberu",
+      "jp": "食べる",
+      "kana": "たべる",
+      "cn": "吃",
+      "pos": "动词",
+      "level": 2,
+      "emoji": "🍽️",
+      "scene": "home",
+      "audio": "audio/words/word_taberu.mp3",
+      "example": "朝ご飯を食べます。",
+      "exampleCn": "吃早饭。"
+    },
+    {
+      "id": "nomu",
+      "jp": "飲む",
+      "kana": "のむ",
+      "cn": "喝",
+      "pos": "动词",
+      "level": 2,
+      "emoji": "🥤",
+      "scene": "home",
+      "audio": "audio/words/word_nomu.mp3",
+      "example": "水を飲みます。",
+      "exampleCn": "喝水。"
+    },
+    {
+      "id": "kazoku",
+      "jp": "家族",
+      "kana": "かぞく",
+      "cn": "家人",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "👨‍👩‍👧",
+      "scene": "home",
+      "audio": "audio/words/word_kazoku.mp3",
+      "example": "家族は四人です。",
+      "exampleCn": "家里有四口人。"
+    },
+    {
+      "id": "chichi",
+      "jp": "父",
+      "kana": "ちち",
+      "cn": "父亲",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "👨",
+      "scene": "home",
+      "audio": "audio/words/word_chichi.mp3",
+      "example": "父は会社員です。",
+      "exampleCn": "父亲是公司职员。"
+    },
+    {
+      "id": "haha",
+      "jp": "母",
+      "kana": "はは",
+      "cn": "母亲",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "👩",
+      "scene": "home",
+      "audio": "audio/words/word_haha.mp3",
+      "example": "母は料理が上手です。",
+      "exampleCn": "妈妈很会做饭。"
+    },
+    {
+      "id": "tasukete",
+      "jp": "助けて",
+      "kana": "たすけて",
+      "cn": "救命 / 帮帮我",
+      "pos": "动词短语",
+      "level": 1,
+      "emoji": "🆘",
+      "scene": "survival",
+      "audio": "audio/words/word_tasukete.mp3",
+      "example": "助けてください！",
+      "exampleCn": "请帮帮我！"
+    },
+    {
+      "id": "daijoubu",
+      "jp": "大丈夫",
+      "kana": "だいじょうぶ",
+      "cn": "没关系 / 没事",
+      "pos": "形容动词",
+      "level": 1,
+      "emoji": "🙆",
+      "scene": "survival",
+      "audio": "audio/words/word_daijoubu.mp3",
+      "example": "大丈夫ですか。",
+      "exampleCn": "你没事吧？"
+    },
+    {
+      "id": "keisatsu",
+      "jp": "警察",
+      "kana": "けいさつ",
+      "cn": "警察",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "👮",
+      "scene": "survival",
+      "audio": "audio/words/word_keisatsu.mp3",
+      "example": "警察を呼んでください。",
+      "exampleCn": "请叫警察。"
+    },
+    {
+      "id": "byouin",
+      "jp": "病院",
+      "kana": "びょういん",
+      "cn": "医院",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🏥",
+      "scene": "survival",
+      "audio": "audio/words/word_byouin.mp3",
+      "example": "病院はどこですか。",
+      "exampleCn": "医院在哪里？"
+    },
+    {
+      "id": "kafe",
+      "jp": "カフェ",
+      "kana": "カフェ",
+      "cn": "咖啡店",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "☕",
+      "scene": "cafe",
+      "audio": "audio/words/word_kafe.mp3",
+      "example": "カフェでコーヒーを飲みます。",
+      "exampleCn": "在咖啡店喝咖啡。"
+    },
+    {
+      "id": "koucha",
+      "jp": "紅茶",
+      "kana": "こうちゃ",
+      "cn": "红茶",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🫖",
+      "scene": "cafe",
+      "audio": "audio/words/word_koucha.mp3",
+      "example": "紅茶をください。",
+      "exampleCn": "请给我红茶。"
+    },
+    {
+      "id": "keeki",
+      "jp": "ケーキ",
+      "kana": "ケーキ",
+      "cn": "蛋糕",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🍰",
+      "scene": "cafe",
+      "audio": "audio/words/word_keeki.mp3",
+      "example": "ケーキはありますか。",
+      "exampleCn": "有蛋糕吗？"
+    },
+    {
+      "id": "satou",
+      "jp": "砂糖",
+      "kana": "さとう",
+      "cn": "糖",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🧂",
+      "scene": "cafe",
+      "audio": "audio/words/word_satou.mp3",
+      "example": "砂糖をください。",
+      "exampleCn": "请给我糖。"
+    },
+    {
+      "id": "miruku",
+      "jp": "ミルク",
+      "kana": "ミルク",
+      "cn": "牛奶",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🥛",
+      "scene": "cafe",
+      "audio": "audio/words/word_miruku.mp3",
+      "example": "ミルクはありますか。",
+      "exampleCn": "有牛奶吗？"
+    },
+    {
+      "id": "aisu-koohii",
+      "jp": "アイスコーヒー",
+      "kana": "アイスコーヒー",
+      "cn": "冰咖啡",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🧊",
+      "scene": "cafe",
+      "audio": "audio/words/word_aisu-koohii.mp3",
+      "example": "アイスコーヒーをください。",
+      "exampleCn": "请给我冰咖啡。"
+    },
+    {
+      "id": "hotto",
+      "jp": "ホット",
+      "kana": "ホット",
+      "cn": "热的（饮料）",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "♨️",
+      "scene": "cafe",
+      "audio": "audio/words/word_hotto.mp3",
+      "example": "ホットコーヒーをください。",
+      "exampleCn": "请给我热咖啡。"
+    },
+    {
+      "id": "okawari",
+      "jp": "おかわり",
+      "kana": "おかわり",
+      "cn": "再来一杯",
+      "pos": "名词",
+      "level": 2,
+      "emoji": "🔄",
+      "scene": "cafe",
+      "audio": "audio/words/word_okawari.mp3",
+      "example": "おかわりをください。",
+      "exampleCn": "请再来一杯。"
+    },
+    {
+      "id": "kyou",
+      "jp": "今日",
+      "kana": "きょう",
+      "cn": "今天",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "📅",
+      "scene": "greeting",
+      "audio": "audio/words/word_kyou.mp3",
+      "example": "今日はいい天気です。",
+      "exampleCn": "今天天气很好。"
+    },
+    {
+      "id": "ashita",
+      "jp": "明日",
+      "kana": "あした",
+      "cn": "明天",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "⏭️",
+      "scene": "greeting",
+      "audio": "audio/words/word_ashita.mp3",
+      "example": "また明日！",
+      "exampleCn": "明天见！"
+    },
+    {
+      "id": "nihongo",
+      "jp": "日本語",
+      "kana": "にほんご",
+      "cn": "日语",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🇯🇵",
+      "scene": "greeting",
+      "audio": "audio/words/word_nihongo.mp3",
+      "example": "日本語がわかります。",
+      "exampleCn": "我懂日语。"
+    },
+    {
+      "id": "michi",
+      "jp": "道",
+      "kana": "みち",
+      "cn": "路",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🛤️",
+      "scene": "survival",
+      "audio": "audio/words/word_michi.mp3",
+      "example": "道に迷いました。",
+      "exampleCn": "我迷路了。"
+    },
+    {
+      "id": "tensuki",
+      "jp": "天気",
+      "kana": "てんき",
+      "cn": "天气",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "⛅",
+      "scene": "greeting",
+      "audio": "audio/words/word_tensuki.mp3",
+      "example": "いい天気ですね。",
+      "exampleCn": "天气真好呢。"
     }
   ],
   "sentences": [
@@ -1041,6 +1392,186 @@
       "audio": "audio/sentences/sentence_kore-wa-takai-desu.mp3",
       "scene": "shop",
       "level": 1
+    },
+    {
+      "id": "shichi-ji-ni-okimasu",
+      "jp": "朝七時に起きます。",
+      "kana": "あさ しちじに おきます。",
+      "cn": "早上 7 点起床。",
+      "grammar": [
+        "に（时间点）",
+        "起きます（起床）"
+      ],
+      "pattern": "○○時に起きます。",
+      "audio": "audio/sentences/sentence_shichi-ji-ni-okimasu.mp3",
+      "scene": "home",
+      "level": 2
+    },
+    {
+      "id": "asagohan-wo-tabemasu",
+      "jp": "朝ご飯を食べます。",
+      "kana": "あさごはんを たべます。",
+      "cn": "吃早饭。",
+      "grammar": [
+        "を（宾语助词）",
+        "食べます（吃）"
+      ],
+      "pattern": "○○を食べます。",
+      "audio": "audio/sentences/sentence_asagohan-wo-tabemasu.mp3",
+      "scene": "home",
+      "level": 1
+    },
+    {
+      "id": "yoru-terebi-wo-mimasu",
+      "jp": "夜、テレビを見ます。",
+      "kana": "よる、テレビを みます。",
+      "cn": "晚上看电视。",
+      "grammar": [
+        "を（宾语助词）",
+        "見ます（看）"
+      ],
+      "pattern": "○○を見ます。",
+      "audio": "audio/sentences/sentence_yoru-terebi-wo-mimasu.mp3",
+      "scene": "home",
+      "level": 2
+    },
+    {
+      "id": "kazoku-wa-yonnin-desu",
+      "jp": "家族は四人です。",
+      "kana": "かぞくは よにんです。",
+      "cn": "家里有四口人。",
+      "grammar": [
+        "は（提示主题）",
+        "です"
+      ],
+      "pattern": "家族は○○人です。",
+      "audio": "audio/sentences/sentence_kazoku-wa-yonnin-desu.mp3",
+      "scene": "home",
+      "level": 2
+    },
+    {
+      "id": "oyasuminasai",
+      "jp": "おやすみなさい。",
+      "kana": "おやすみなさい。",
+      "cn": "晚安。",
+      "grammar": [
+        "なさい（命令的礼貌形式）"
+      ],
+      "pattern": "おやすみなさい。",
+      "audio": "audio/sentences/sentence_oyasuminasai.mp3",
+      "scene": "home",
+      "level": 1
+    },
+    {
+      "id": "tasukete-kudasai",
+      "jp": "助けてください！",
+      "kana": "たすけてください！",
+      "cn": "请帮帮我！",
+      "grammar": [
+        "てください（请…）"
+      ],
+      "pattern": "○○てください。",
+      "audio": "audio/sentences/sentence_tasukete-kudasai.mp3",
+      "scene": "survival",
+      "level": 1
+    },
+    {
+      "id": "daijoubu-desu-ka",
+      "jp": "大丈夫ですか。",
+      "kana": "だいじょうぶですか。",
+      "cn": "你没事吧？",
+      "grammar": [
+        "大丈夫（没事）",
+        "か（疑问）"
+      ],
+      "pattern": "大丈夫ですか。",
+      "audio": "audio/sentences/sentence_daijoubu-desu-ka.mp3",
+      "scene": "survival",
+      "level": 1
+    },
+    {
+      "id": "byouin-wa-doko",
+      "jp": "病院はどこですか。",
+      "kana": "びょういんは どこですか。",
+      "cn": "医院在哪里？",
+      "grammar": [
+        "どこ（哪里）",
+        "か（疑问）"
+      ],
+      "pattern": "○○はどこですか。",
+      "audio": "audio/sentences/sentence_byouin-wa-doko.mp3",
+      "scene": "survival",
+      "level": 1
+    },
+    {
+      "id": "massugu-itte-kudasai",
+      "jp": "まっすぐ行ってください。",
+      "kana": "まっすぐ いってください。",
+      "cn": "请直走。",
+      "grammar": [
+        "まっすぐ（笔直）",
+        "行ってください（请去）"
+      ],
+      "pattern": "○○行ってください。",
+      "audio": "audio/sentences/sentence_massugu-itte-kudasai.mp3",
+      "scene": "survival",
+      "level": 2
+    },
+    {
+      "id": "aisu-koohii-wo-kudasai",
+      "jp": "アイスコーヒーをください。",
+      "kana": "アイスコーヒーを ください。",
+      "cn": "请给我冰咖啡。",
+      "grammar": [
+        "を（宾语助词）",
+        "ください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_aisu-koohii-wo-kudasai.mp3",
+      "scene": "cafe",
+      "level": 1
+    },
+    {
+      "id": "satou-to-miruku-wo-kudasai",
+      "jp": "砂糖とミルクをください。",
+      "kana": "さとうと ミルクを ください。",
+      "cn": "请给我糖和牛奶。",
+      "grammar": [
+        "と（和）",
+        "をください（请给我）"
+      ],
+      "pattern": "○○と○○をください。",
+      "audio": "audio/sentences/sentence_satou-to-miruku-wo-kudasai.mp3",
+      "scene": "cafe",
+      "level": 2
+    },
+    {
+      "id": "keeki-wa-arimasu-ka",
+      "jp": "ケーキはありますか。",
+      "kana": "ケーキは ありますか。",
+      "cn": "有蛋糕吗？",
+      "grammar": [
+        "あります（有）",
+        "か（疑问）"
+      ],
+      "pattern": "○○はありますか。",
+      "audio": "audio/sentences/sentence_keeki-wa-arimasu-ka.mp3",
+      "scene": "cafe",
+      "level": 1
+    },
+    {
+      "id": "okawari-wo-kudasai",
+      "jp": "おかわりをください。",
+      "kana": "おかわりを ください。",
+      "cn": "请再来一杯。",
+      "grammar": [
+        "おかわり（再来一份）",
+        "をください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_okawari-wo-kudasai.mp3",
+      "scene": "cafe",
+      "level": 2
     }
   ],
   "dialogues": [
@@ -1361,6 +1892,198 @@
           "jp": "ありがとうございます。",
           "cn": "谢谢。",
           "audio": "audio/dialogues/dlg-shop-1_l6.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dlg-home-1",
+      "sceneId": "home",
+      "title": "早上的家里",
+      "desc": "起床后和妈妈的简短对话",
+      "characters": [
+        {
+          "id": "mama",
+          "name": "妈妈",
+          "avatar": "👩",
+          "voice": "ja-JP-NanamiNeural"
+        },
+        {
+          "id": "child",
+          "name": "孩子",
+          "avatar": "🧒",
+          "voice": "ja-JP-KeitaNeural"
+        }
+      ],
+      "lines": [
+        {
+          "id": "l1",
+          "character": "mama",
+          "jp": "おはよう。",
+          "cn": "早上好。",
+          "audio": "audio/dialogues/dlg-home-1_l1.mp3"
+        },
+        {
+          "id": "l2",
+          "character": "child",
+          "jp": "おはよう、お母さん。",
+          "cn": "早上好，妈妈。",
+          "audio": "audio/dialogues/dlg-home-1_l2.mp3"
+        },
+        {
+          "id": "l3",
+          "character": "mama",
+          "jp": "朝ご飯を食べますか。",
+          "cn": "吃早饭吗？",
+          "audio": "audio/dialogues/dlg-home-1_l3.mp3"
+        },
+        {
+          "id": "l4",
+          "character": "child",
+          "jp": "はい、食べます。",
+          "cn": "嗯，吃。",
+          "audio": "audio/dialogues/dlg-home-1_l4.mp3"
+        },
+        {
+          "id": "l5",
+          "character": "child",
+          "jp": "おいしい！",
+          "cn": "真好吃！",
+          "audio": "audio/dialogues/dlg-home-1_l5.mp3"
+        },
+        {
+          "id": "l6",
+          "character": "mama",
+          "jp": "よかったね。",
+          "cn": "太好了。",
+          "audio": "audio/dialogues/dlg-home-1_l6.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dlg-survival-1",
+      "sceneId": "survival",
+      "title": "迷路问路",
+      "desc": "迷路了，向路人问车站怎么走",
+      "characters": [
+        {
+          "id": "passerby",
+          "name": "路人",
+          "avatar": "🧑",
+          "voice": "ja-JP-KeitaNeural"
+        },
+        {
+          "id": "tourist",
+          "name": "游客",
+          "avatar": "🧳",
+          "voice": "ja-JP-NanamiNeural"
+        }
+      ],
+      "lines": [
+        {
+          "id": "l1",
+          "character": "tourist",
+          "jp": "すみません、駅はどこですか。",
+          "cn": "不好意思，车站在哪里？",
+          "audio": "audio/dialogues/dlg-survival-1_l1.mp3"
+        },
+        {
+          "id": "l2",
+          "character": "passerby",
+          "jp": "まっすぐ行ってください。",
+          "cn": "请直走。",
+          "audio": "audio/dialogues/dlg-survival-1_l2.mp3"
+        },
+        {
+          "id": "l3",
+          "character": "tourist",
+          "jp": "すみません、わかりません。",
+          "cn": "不好意思，我不明白。",
+          "audio": "audio/dialogues/dlg-survival-1_l3.mp3"
+        },
+        {
+          "id": "l4",
+          "character": "passerby",
+          "jp": "まっすぐです。それから右です。",
+          "cn": "直走，然后右转。",
+          "audio": "audio/dialogues/dlg-survival-1_l4.mp3"
+        },
+        {
+          "id": "l5",
+          "character": "tourist",
+          "jp": "ありがとうございます。",
+          "cn": "非常感谢。",
+          "audio": "audio/dialogues/dlg-survival-1_l5.mp3"
+        },
+        {
+          "id": "l6",
+          "character": "passerby",
+          "jp": "どういたしまして。",
+          "cn": "不客气。",
+          "audio": "audio/dialogues/dlg-survival-1_l6.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dlg-cafe-1",
+      "sceneId": "cafe",
+      "title": "在咖啡店点单",
+      "desc": "点一杯冰咖啡，加一份蛋糕",
+      "characters": [
+        {
+          "id": "clerk",
+          "name": "店员",
+          "avatar": "🧑‍💼",
+          "voice": "ja-JP-KeitaNeural"
+        },
+        {
+          "id": "customer",
+          "name": "顾客",
+          "avatar": "🙋",
+          "voice": "ja-JP-NanamiNeural"
+        }
+      ],
+      "lines": [
+        {
+          "id": "l1",
+          "character": "clerk",
+          "jp": "いらっしゃいませ。ご注文は？",
+          "cn": "欢迎光临。请问要点什么？",
+          "audio": "audio/dialogues/dlg-cafe-1_l1.mp3"
+        },
+        {
+          "id": "l2",
+          "character": "customer",
+          "jp": "アイスコーヒーをください。",
+          "cn": "请给我冰咖啡。",
+          "audio": "audio/dialogues/dlg-cafe-1_l2.mp3"
+        },
+        {
+          "id": "l3",
+          "character": "clerk",
+          "jp": "砂糖とミルクは？",
+          "cn": "要糖和牛奶吗？",
+          "audio": "audio/dialogues/dlg-cafe-1_l3.mp3"
+        },
+        {
+          "id": "l4",
+          "character": "customer",
+          "jp": "はい、お願いします。",
+          "cn": "好的，请。",
+          "audio": "audio/dialogues/dlg-cafe-1_l4.mp3"
+        },
+        {
+          "id": "l5",
+          "character": "customer",
+          "jp": "ケーキはありますか。",
+          "cn": "有蛋糕吗？",
+          "audio": "audio/dialogues/dlg-cafe-1_l5.mp3"
+        },
+        {
+          "id": "l6",
+          "character": "clerk",
+          "jp": "はい、こちらです。",
+          "cn": "有的，在这儿。",
+          "audio": "audio/dialogues/dlg-cafe-1_l6.mp3"
         }
       ]
     }

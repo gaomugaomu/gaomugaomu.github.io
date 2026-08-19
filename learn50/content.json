@@ -1054,7 +1054,40 @@
       "pattern": "私は○○です。",
       "audio": "audio/sentences/sentence_watashi-wa-desu.mp3",
       "scene": "self-intro",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "私",
+          "cn": "我",
+          "note": "第一人称代词，男女通用"
+        },
+        {
+          "text": "は",
+          "cn": "（主题助词）",
+          "note": "提示句子的主题，读作「わ」"
+        },
+        {
+          "text": "学生",
+          "cn": "学生",
+          "note": "名词，がくせい"
+        },
+        {
+          "text": "です",
+          "cn": "是",
+          "note": "礼貌的断定表达，句末用"
+        }
+      ],
+      "replacements": [
+        {
+          "slot": "学生",
+          "items": [
+            "学生",
+            "会社員",
+            "日本人",
+            "先生"
+          ]
+        }
+      ]
     },
     {
       "id": "kore-wa-desu",
@@ -1069,7 +1102,34 @@
       "pattern": "これは○○ですか。",
       "audio": "audio/sentences/sentence_kore-wa-desu.mp3",
       "scene": "convenience",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "これ",
+          "cn": "这个",
+          "note": "指示代词：离自己近的东西"
+        },
+        {
+          "text": "は",
+          "cn": "（主题助词）",
+          "note": "提示主题，读作「わ」"
+        },
+        {
+          "text": "何",
+          "cn": "什么",
+          "note": "疑问词，なん/なに"
+        },
+        {
+          "text": "です",
+          "cn": "是",
+          "note": "礼貌断定"
+        },
+        {
+          "text": "か",
+          "cn": "（疑问）",
+          "note": "句尾加か变成疑问句"
+        }
+      ]
     },
     {
       "id": "wo-kudasai",
@@ -1083,7 +1143,35 @@
       "pattern": "○○をください。",
       "audio": "audio/sentences/sentence_wo-kudasai.mp3",
       "scene": "convenience",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "水",
+          "cn": "水",
+          "note": "みず，饮料、自来水"
+        },
+        {
+          "text": "を",
+          "cn": "（宾语助词）",
+          "note": "连接动作的对象"
+        },
+        {
+          "text": "ください",
+          "cn": "请给我",
+          "note": "请求别人给自己东西"
+        }
+      ],
+      "replacements": [
+        {
+          "slot": "水",
+          "items": [
+            "水",
+            "お茶",
+            "おにぎり",
+            "コーヒー"
+          ]
+        }
+      ]
     },
     {
       "id": "wa-ikura-desu-ka",
@@ -1097,7 +1185,45 @@
       "pattern": "○○はいくらですか。",
       "audio": "audio/sentences/sentence_wa-ikura-desu-ka.mp3",
       "scene": "convenience",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "これ",
+          "cn": "这个",
+          "note": "指示代词"
+        },
+        {
+          "text": "は",
+          "cn": "（主题助词）",
+          "note": "提示主题"
+        },
+        {
+          "text": "いくら",
+          "cn": "多少钱",
+          "note": "询问价格的疑问词"
+        },
+        {
+          "text": "です",
+          "cn": "是",
+          "note": "礼貌断定"
+        },
+        {
+          "text": "か",
+          "cn": "（疑问）",
+          "note": "句尾疑问"
+        }
+      ],
+      "replacements": [
+        {
+          "slot": "これ",
+          "items": [
+            "これ",
+            "おにぎり",
+            "お弁当",
+            "コーヒー"
+          ]
+        }
+      ]
     },
     {
       "id": "wa-doko-desu-ka",
@@ -1111,7 +1237,45 @@
       "pattern": "○○はどこですか。",
       "audio": "audio/sentences/sentence_wa-doko-desu-ka.mp3",
       "scene": "survival",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "トイレ",
+          "cn": "厕所",
+          "note": "外来语，洗手间"
+        },
+        {
+          "text": "は",
+          "cn": "（主题助词）",
+          "note": "提示主题"
+        },
+        {
+          "text": "どこ",
+          "cn": "哪里",
+          "note": "询问地点的疑问词"
+        },
+        {
+          "text": "です",
+          "cn": "是",
+          "note": "礼貌断定"
+        },
+        {
+          "text": "か",
+          "cn": "（疑问）",
+          "note": "句尾疑问"
+        }
+      ],
+      "replacements": [
+        {
+          "slot": "トイレ",
+          "items": [
+            "トイレ",
+            "駅",
+            "出口",
+            "病院"
+          ]
+        }
+      ]
     },
     {
       "id": "mou-ichido-onegaishimasu",
@@ -1347,7 +1511,34 @@
       "pattern": "○○してもいいですか。",
       "audio": "audio/sentences/sentence_shichaku-shite-mo-ii-desu-ka.mp3",
       "scene": "shop",
-      "level": 2
+      "level": 2,
+      "words": [
+        {
+          "text": "試着",
+          "cn": "试穿",
+          "note": "名词，しちゃく"
+        },
+        {
+          "text": "して",
+          "cn": "做（て形）",
+          "note": "「する」的て形"
+        },
+        {
+          "text": "もいい",
+          "cn": "也可以",
+          "note": "许可表达"
+        },
+        {
+          "text": "です",
+          "cn": "是",
+          "note": "礼貌断定"
+        },
+        {
+          "text": "か",
+          "cn": "（疑问）",
+          "note": "句尾疑问"
+        }
+      ]
     },
     {
       "id": "ookii-saizu-wa-arimasu-ka",
@@ -1419,7 +1610,35 @@
       "pattern": "○○を食べます。",
       "audio": "audio/sentences/sentence_asagohan-wo-tabemasu.mp3",
       "scene": "home",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "朝ご飯",
+          "cn": "早饭",
+          "note": "あさごはん，ご飯=米饭/饭"
+        },
+        {
+          "text": "を",
+          "cn": "（宾语助词）",
+          "note": "连接动作的对象"
+        },
+        {
+          "text": "食べます",
+          "cn": "吃",
+          "note": "动词「食べる」的礼貌形"
+        }
+      ],
+      "replacements": [
+        {
+          "slot": "朝ご飯",
+          "items": [
+            "朝ご飯",
+            "パン",
+            "おにぎり",
+            "ラーメン"
+          ]
+        }
+      ]
     },
     {
       "id": "yoru-terebi-wo-mimasu",
@@ -1460,7 +1679,19 @@
       "pattern": "おやすみなさい。",
       "audio": "audio/sentences/sentence_oyasuminasai.mp3",
       "scene": "home",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "おやすみ",
+          "cn": "休息",
+          "note": "「休み」的礼貌说法"
+        },
+        {
+          "text": "なさい",
+          "cn": "请…吧",
+          "note": "温和的叮嘱语气"
+        }
+      ]
     },
     {
       "id": "tasukete-kudasai",
@@ -1473,7 +1704,19 @@
       "pattern": "○○てください。",
       "audio": "audio/sentences/sentence_tasukete-kudasai.mp3",
       "scene": "survival",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "助けて",
+          "cn": "帮帮我",
+          "note": "动词「助ける」的て形，求助时喊"
+        },
+        {
+          "text": "ください",
+          "cn": "请…",
+          "note": "请求表达"
+        }
+      ]
     },
     {
       "id": "daijoubu-desu-ka",
@@ -1529,7 +1772,35 @@
       "pattern": "○○をください。",
       "audio": "audio/sentences/sentence_aisu-koohii-wo-kudasai.mp3",
       "scene": "cafe",
-      "level": 1
+      "level": 1,
+      "words": [
+        {
+          "text": "アイスコーヒー",
+          "cn": "冰咖啡",
+          "note": "外来语：冰+咖啡"
+        },
+        {
+          "text": "を",
+          "cn": "（宾语助词）",
+          "note": "连接动作的对象"
+        },
+        {
+          "text": "ください",
+          "cn": "请给我",
+          "note": "请求表达"
+        }
+      ],
+      "replacements": [
+        {
+          "slot": "アイスコーヒー",
+          "items": [
+            "アイスコーヒー",
+            "紅茶",
+            "ケーキ",
+            "おかわり"
+          ]
+        }
+      ]
     },
     {
       "id": "satou-to-miruku-wo-kudasai",

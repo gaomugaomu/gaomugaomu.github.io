@@ -1,0 +1,1368 @@
+{
+  "words": [
+    {
+      "id": "konnichiwa",
+      "jp": "こんにちは",
+      "kana": "こんにちは",
+      "cn": "你好（白天问候）",
+      "pos": "寒暄语",
+      "level": 1,
+      "emoji": "👋",
+      "scene": "greeting",
+      "audio": "audio/words/word_konnichiwa.mp3",
+      "example": "こんにちは、田中さん。",
+      "exampleCn": "你好，田中先生。"
+    },
+    {
+      "id": "ohayou",
+      "jp": "おはよう",
+      "kana": "おはよう",
+      "cn": "早上好",
+      "pos": "寒暄语",
+      "level": 1,
+      "emoji": "🌅",
+      "scene": "greeting",
+      "audio": "audio/words/word_ohayou.mp3",
+      "example": "おはようございます。",
+      "exampleCn": "早上好。（礼貌说法）"
+    },
+    {
+      "id": "konbanwa",
+      "jp": "こんばんは",
+      "kana": "こんばんは",
+      "cn": "晚上好",
+      "pos": "寒暄语",
+      "level": 1,
+      "emoji": "🌙",
+      "scene": "greeting",
+      "audio": "audio/words/word_konbanwa.mp3",
+      "example": "こんばんは、お元気ですか。",
+      "exampleCn": "晚上好，你好吗？"
+    },
+    {
+      "id": "sayounara",
+      "jp": "さようなら",
+      "kana": "さようなら",
+      "cn": "再见",
+      "pos": "寒暄语",
+      "level": 1,
+      "emoji": "👋",
+      "scene": "greeting",
+      "audio": "audio/words/word_sayounara.mp3",
+      "example": "さようなら、また明日。",
+      "exampleCn": "再见，明天见。"
+    },
+    {
+      "id": "arigatou",
+      "jp": "ありがとう",
+      "kana": "ありがとう",
+      "cn": "谢谢",
+      "pos": "寒暄语",
+      "level": 1,
+      "emoji": "🙏",
+      "scene": "greeting",
+      "audio": "audio/words/word_arigatou.mp3",
+      "example": "ありがとうございます。",
+      "exampleCn": "非常感谢。"
+    },
+    {
+      "id": "sumimasen",
+      "jp": "すみません",
+      "kana": "すみません",
+      "cn": "对不起 / 不好意思 / 劳驾",
+      "pos": "寒暄语",
+      "level": 1,
+      "emoji": "🙇",
+      "scene": "greeting",
+      "audio": "audio/words/word_sumimasen.mp3",
+      "example": "すみません、駅はどこですか。",
+      "exampleCn": "不好意思，车站在哪里？"
+    },
+    {
+      "id": "hai",
+      "jp": "はい",
+      "kana": "はい",
+      "cn": "是 / 好的",
+      "pos": "应答",
+      "level": 1,
+      "emoji": "✅",
+      "scene": "greeting",
+      "audio": "audio/words/word_hai.mp3",
+      "example": "はい、わかりました。",
+      "exampleCn": "好的，明白了。"
+    },
+    {
+      "id": "iie",
+      "jp": "いいえ",
+      "kana": "いいえ",
+      "cn": "不是 / 不",
+      "pos": "应答",
+      "level": 1,
+      "emoji": "❌",
+      "scene": "greeting",
+      "audio": "audio/words/word_iie.mp3",
+      "example": "いいえ、違います。",
+      "exampleCn": "不，不是那样的。"
+    },
+    {
+      "id": "onegaishimasu",
+      "jp": "お願いします",
+      "kana": "おねがいします",
+      "cn": "拜托了 / 请",
+      "pos": "寒暄语",
+      "level": 1,
+      "emoji": "🙏",
+      "scene": "greeting",
+      "audio": "audio/words/word_onegaishimasu.mp3",
+      "example": "コーヒーをお願いします。",
+      "exampleCn": "请给我一杯咖啡。"
+    },
+    {
+      "id": "wakarimasen",
+      "jp": "わかりません",
+      "kana": "わかりません",
+      "cn": "不明白",
+      "pos": "动词短语",
+      "level": 1,
+      "emoji": "🤔",
+      "scene": "greeting",
+      "audio": "audio/words/word_wakarimasen.mp3",
+      "example": "すみません、わかりません。",
+      "exampleCn": "不好意思，我不明白。"
+    },
+    {
+      "id": "watashi",
+      "jp": "私",
+      "kana": "わたし",
+      "cn": "我",
+      "pos": "代词",
+      "level": 1,
+      "emoji": "🙋",
+      "scene": "self-intro",
+      "audio": "audio/words/word_watashi.mp3",
+      "example": "私は学生です。",
+      "exampleCn": "我是学生。"
+    },
+    {
+      "id": "gakusei",
+      "jp": "学生",
+      "kana": "がくせい",
+      "cn": "学生",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🎒",
+      "scene": "self-intro",
+      "audio": "audio/words/word_gakusei.mp3",
+      "example": "私は学生です。",
+      "exampleCn": "我是学生。"
+    },
+    {
+      "id": "nihonjin",
+      "jp": "日本人",
+      "kana": "にほんじん",
+      "cn": "日本人",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🗾",
+      "scene": "self-intro",
+      "audio": "audio/words/word_nihonjin.mp3",
+      "example": "私は日本人です。",
+      "exampleCn": "我是日本人。"
+    },
+    {
+      "id": "sensei",
+      "jp": "先生",
+      "kana": "せんせい",
+      "cn": "老师",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "👩‍🏫",
+      "scene": "self-intro",
+      "audio": "audio/words/word_sensei.mp3",
+      "example": "あの人は先生です。",
+      "exampleCn": "那个人是老师。"
+    },
+    {
+      "id": "mizu",
+      "jp": "水",
+      "kana": "みず",
+      "cn": "水",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "💧",
+      "scene": "convenience",
+      "audio": "audio/words/word_mizu.mp3",
+      "example": "水をください。",
+      "exampleCn": "请给我水。"
+    },
+    {
+      "id": "ocha",
+      "jp": "お茶",
+      "kana": "おちゃ",
+      "cn": "茶",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🍵",
+      "scene": "convenience",
+      "audio": "audio/words/word_ocha.mp3",
+      "example": "お茶をください。",
+      "exampleCn": "请给我茶。"
+    },
+    {
+      "id": "kore",
+      "jp": "これ",
+      "kana": "これ",
+      "cn": "这个",
+      "pos": "代词",
+      "level": 1,
+      "emoji": "👉",
+      "scene": "convenience",
+      "audio": "audio/words/word_kore.mp3",
+      "example": "これは何ですか。",
+      "exampleCn": "这是什么？"
+    },
+    {
+      "id": "ikura",
+      "jp": "いくら",
+      "kana": "いくら",
+      "cn": "多少钱",
+      "pos": "疑问词",
+      "level": 1,
+      "emoji": "💴",
+      "scene": "convenience",
+      "audio": "audio/words/word_ikura.mp3",
+      "example": "これはいくらですか。",
+      "exampleCn": "这个多少钱？"
+    },
+    {
+      "id": "toire",
+      "jp": "トイレ",
+      "kana": "トイレ",
+      "cn": "厕所",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🚻",
+      "scene": "survival",
+      "audio": "audio/words/word_toire.mp3",
+      "example": "トイレはどこですか。",
+      "exampleCn": "厕所在哪里？"
+    },
+    {
+      "id": "eki",
+      "jp": "駅",
+      "kana": "えき",
+      "cn": "车站",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🚉",
+      "scene": "train",
+      "audio": "audio/words/word_eki.mp3",
+      "example": "駅はどこですか。",
+      "exampleCn": "车站在哪里？"
+    },
+    {
+      "id": "onigiri",
+      "jp": "おにぎり",
+      "kana": "おにぎり",
+      "cn": "饭团",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🍙",
+      "scene": "convenience",
+      "audio": "audio/words/word_onigiri.mp3",
+      "example": "おにぎりをください。",
+      "exampleCn": "请给我饭团。"
+    },
+    {
+      "id": "obentou",
+      "jp": "お弁当",
+      "kana": "おべんとう",
+      "cn": "便当",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🍱",
+      "scene": "convenience",
+      "audio": "audio/words/word_obentou.mp3",
+      "example": "お弁当はいくらですか。",
+      "exampleCn": "便当多少钱？"
+    },
+    {
+      "id": "koohii",
+      "jp": "コーヒー",
+      "kana": "コーヒー",
+      "cn": "咖啡",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "☕",
+      "scene": "convenience",
+      "audio": "audio/words/word_koohii.mp3",
+      "example": "コーヒーをお願いします。",
+      "exampleCn": "请给我咖啡。"
+    },
+    {
+      "id": "pan",
+      "jp": "パン",
+      "kana": "パン",
+      "cn": "面包",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🍞",
+      "scene": "convenience",
+      "audio": "audio/words/word_pan.mp3",
+      "example": "パンをください。",
+      "exampleCn": "请给我面包。"
+    },
+    {
+      "id": "regi",
+      "jp": "レジ",
+      "kana": "レジ",
+      "cn": "收银台",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "💳",
+      "scene": "convenience",
+      "audio": "audio/words/word_regi.mp3",
+      "example": "レジはどこですか。",
+      "exampleCn": "收银台在哪里？"
+    },
+    {
+      "id": "fukuro",
+      "jp": "袋",
+      "kana": "ふくろ",
+      "cn": "袋子",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🛍️",
+      "scene": "convenience",
+      "audio": "audio/words/word_fukuro.mp3",
+      "example": "袋をください。",
+      "exampleCn": "请给我袋子。"
+    },
+    {
+      "id": "resutoran",
+      "jp": "レストラン",
+      "kana": "レストラン",
+      "cn": "餐厅",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🍽️",
+      "scene": "restaurant",
+      "audio": "audio/words/word_resutoran.mp3",
+      "example": "レストランはどこですか。",
+      "exampleCn": "餐厅在哪里？"
+    },
+    {
+      "id": "menyuu",
+      "jp": "メニュー",
+      "kana": "メニュー",
+      "cn": "菜单",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "📋",
+      "scene": "restaurant",
+      "audio": "audio/words/word_menyuu.mp3",
+      "example": "メニューをください。",
+      "exampleCn": "请给我菜单。"
+    },
+    {
+      "id": "raamen",
+      "jp": "ラーメン",
+      "kana": "ラーメン",
+      "cn": "拉面",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🍜",
+      "scene": "restaurant",
+      "audio": "audio/words/word_raamen.mp3",
+      "example": "ラーメンをください。",
+      "exampleCn": "请给我拉面。"
+    },
+    {
+      "id": "gohan",
+      "jp": "ご飯",
+      "kana": "ごはん",
+      "cn": "米饭",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🍚",
+      "scene": "restaurant",
+      "audio": "audio/words/word_gohan.mp3",
+      "example": "ご飯をください。",
+      "exampleCn": "请给我米饭。"
+    },
+    {
+      "id": "oishii",
+      "jp": "おいしい",
+      "kana": "おいしい",
+      "cn": "好吃",
+      "pos": "形容词",
+      "level": 1,
+      "emoji": "😋",
+      "scene": "restaurant",
+      "audio": "audio/words/word_oishii.mp3",
+      "example": "ラーメンはおいしいです。",
+      "exampleCn": "拉面很好吃。"
+    },
+    {
+      "id": "okaikei",
+      "jp": "お会計",
+      "kana": "おかいけい",
+      "cn": "结账",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🧾",
+      "scene": "restaurant",
+      "audio": "audio/words/word_okaikei.mp3",
+      "example": "お会計をお願いします。",
+      "exampleCn": "请结账。"
+    },
+    {
+      "id": "densha",
+      "jp": "電車",
+      "kana": "でんしゃ",
+      "cn": "电车",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🚃",
+      "scene": "train",
+      "audio": "audio/words/word_densha.mp3",
+      "example": "電車で行きます。",
+      "exampleCn": "坐电车去。"
+    },
+    {
+      "id": "kippu",
+      "jp": "切符",
+      "kana": "きっぷ",
+      "cn": "车票",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🎫",
+      "scene": "train",
+      "audio": "audio/words/word_kippu.mp3",
+      "example": "切符をください。",
+      "exampleCn": "请给我车票。"
+    },
+    {
+      "id": "kaisatsu",
+      "jp": "改札",
+      "kana": "かいさつ",
+      "cn": "检票口",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🚧",
+      "scene": "train",
+      "audio": "audio/words/word_kaisatsu.mp3",
+      "example": "改札はどこですか。",
+      "exampleCn": "检票口在哪里？"
+    },
+    {
+      "id": "deguchi",
+      "jp": "出口",
+      "kana": "でぐち",
+      "cn": "出口",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🚪",
+      "scene": "train",
+      "audio": "audio/words/word_deguchi.mp3",
+      "example": "出口はどこですか。",
+      "exampleCn": "出口在哪里？"
+    },
+    {
+      "id": "norikae",
+      "jp": "乗り換え",
+      "kana": "のりかえ",
+      "cn": "换乘",
+      "pos": "名词",
+      "level": 2,
+      "emoji": "🔁",
+      "scene": "train",
+      "audio": "audio/words/word_norikae.mp3",
+      "example": "乗り換えはここです。",
+      "exampleCn": "在这里换乘。"
+    },
+    {
+      "id": "hoteru",
+      "jp": "ホテル",
+      "kana": "ホテル",
+      "cn": "酒店",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🏨",
+      "scene": "hotel",
+      "audio": "audio/words/word_hoteru.mp3",
+      "example": "ホテルはどこですか。",
+      "exampleCn": "酒店在哪里？"
+    },
+    {
+      "id": "heya",
+      "jp": "部屋",
+      "kana": "へや",
+      "cn": "房间",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🚪",
+      "scene": "hotel",
+      "audio": "audio/words/word_heya.mp3",
+      "example": "部屋はどこですか。",
+      "exampleCn": "房间在哪里？"
+    },
+    {
+      "id": "checkin",
+      "jp": "チェックイン",
+      "kana": "チェックイン",
+      "cn": "办理入住",
+      "pos": "名词",
+      "level": 2,
+      "emoji": "🛎️",
+      "scene": "hotel",
+      "audio": "audio/words/word_checkin.mp3",
+      "example": "チェックインをお願いします。",
+      "exampleCn": "请办理入住。"
+    },
+    {
+      "id": "checkout",
+      "jp": "チェックアウト",
+      "kana": "チェックアウト",
+      "cn": "退房",
+      "pos": "名词",
+      "level": 2,
+      "emoji": "🧳",
+      "scene": "hotel",
+      "audio": "audio/words/word_checkout.mp3",
+      "example": "チェックアウトをお願いします。",
+      "exampleCn": "请办理退房。"
+    },
+    {
+      "id": "nimotsu",
+      "jp": "荷物",
+      "kana": "にもつ",
+      "cn": "行李",
+      "pos": "名词",
+      "level": 2,
+      "emoji": "🧰",
+      "scene": "hotel",
+      "audio": "audio/words/word_nimotsu.mp3",
+      "example": "荷物を預けたいです。",
+      "exampleCn": "我想寄存行李。"
+    },
+    {
+      "id": "taoru",
+      "jp": "タオル",
+      "kana": "タオル",
+      "cn": "毛巾",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🧻",
+      "scene": "hotel",
+      "audio": "audio/words/word_taoru.mp3",
+      "example": "タオルをください。",
+      "exampleCn": "请给我毛巾。"
+    },
+    {
+      "id": "kagi",
+      "jp": "鍵",
+      "kana": "かぎ",
+      "cn": "钥匙",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🔑",
+      "scene": "hotel",
+      "audio": "audio/words/word_kagi.mp3",
+      "example": "鍵をください。",
+      "exampleCn": "请给我钥匙。"
+    },
+    {
+      "id": "wifi",
+      "jp": "Wi-Fi",
+      "kana": "ワイファイ",
+      "cn": "无线网络",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "📶",
+      "scene": "hotel",
+      "audio": "audio/words/word_wifi.mp3",
+      "example": "Wi-Fiはありますか。",
+      "exampleCn": "有无线网络吗？"
+    },
+    {
+      "id": "mise",
+      "jp": "店",
+      "kana": "みせ",
+      "cn": "商店",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🛍️",
+      "scene": "shop",
+      "audio": "audio/words/word_mise.mp3",
+      "example": "この店は安いです。",
+      "exampleCn": "这家店很便宜。"
+    },
+    {
+      "id": "fuku",
+      "jp": "服",
+      "kana": "ふく",
+      "cn": "衣服",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "👕",
+      "scene": "shop",
+      "audio": "audio/words/word_fuku.mp3",
+      "example": "服を買いたいです。",
+      "exampleCn": "我想买衣服。"
+    },
+    {
+      "id": "kutsu",
+      "jp": "靴",
+      "kana": "くつ",
+      "cn": "鞋子",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "👟",
+      "scene": "shop",
+      "audio": "audio/words/word_kutsu.mp3",
+      "example": "靴はいくらですか。",
+      "exampleCn": "鞋子多少钱？"
+    },
+    {
+      "id": "saizu",
+      "jp": "サイズ",
+      "kana": "サイズ",
+      "cn": "尺码",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "📏",
+      "scene": "shop",
+      "audio": "audio/words/word_saizu.mp3",
+      "example": "サイズはありますか。",
+      "exampleCn": "有尺码吗？"
+    },
+    {
+      "id": "iro",
+      "jp": "色",
+      "kana": "いろ",
+      "cn": "颜色",
+      "pos": "名词",
+      "level": 1,
+      "emoji": "🎨",
+      "scene": "shop",
+      "audio": "audio/words/word_iro.mp3",
+      "example": "この色がいいです。",
+      "exampleCn": "这个颜色不错。"
+    },
+    {
+      "id": "shichaku",
+      "jp": "試着",
+      "kana": "しちゃく",
+      "cn": "试穿",
+      "pos": "名词",
+      "level": 2,
+      "emoji": "🪞",
+      "scene": "shop",
+      "audio": "audio/words/word_shichaku.mp3",
+      "example": "試着してもいいですか。",
+      "exampleCn": "可以试穿吗？"
+    },
+    {
+      "id": "takai",
+      "jp": "高い",
+      "kana": "たかい",
+      "cn": "贵",
+      "pos": "形容词",
+      "level": 1,
+      "emoji": "💸",
+      "scene": "shop",
+      "audio": "audio/words/word_takai.mp3",
+      "example": "これは高いです。",
+      "exampleCn": "这个很贵。"
+    },
+    {
+      "id": "yasui",
+      "jp": "安い",
+      "kana": "やすい",
+      "cn": "便宜",
+      "pos": "形容词",
+      "level": 1,
+      "emoji": "💰",
+      "scene": "shop",
+      "audio": "audio/words/word_yasui.mp3",
+      "example": "これは安いです。",
+      "exampleCn": "这个很便宜。"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "watashi-wa-desu",
+      "jp": "私は学生です。",
+      "kana": "わたしは がくせいです。",
+      "cn": "我是学生。",
+      "grammar": [
+        "は（提示主题）",
+        "です（判断句）"
+      ],
+      "pattern": "私は○○です。",
+      "audio": "audio/sentences/sentence_watashi-wa-desu.mp3",
+      "scene": "self-intro",
+      "level": 1
+    },
+    {
+      "id": "kore-wa-desu",
+      "jp": "これは何ですか。",
+      "kana": "これは なんですか。",
+      "cn": "这是什么？",
+      "grammar": [
+        "これ（这个）",
+        "何（什么）",
+        "か（疑问）"
+      ],
+      "pattern": "これは○○ですか。",
+      "audio": "audio/sentences/sentence_kore-wa-desu.mp3",
+      "scene": "convenience",
+      "level": 1
+    },
+    {
+      "id": "wo-kudasai",
+      "jp": "水をください。",
+      "kana": "みずを ください。",
+      "cn": "请给我水。",
+      "grammar": [
+        "を（宾语助词）",
+        "ください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_wo-kudasai.mp3",
+      "scene": "convenience",
+      "level": 1
+    },
+    {
+      "id": "wa-ikura-desu-ka",
+      "jp": "これはいくらですか。",
+      "kana": "これは いくらですか。",
+      "cn": "这个多少钱？",
+      "grammar": [
+        "いくら（多少钱）",
+        "か（疑问）"
+      ],
+      "pattern": "○○はいくらですか。",
+      "audio": "audio/sentences/sentence_wa-ikura-desu-ka.mp3",
+      "scene": "convenience",
+      "level": 1
+    },
+    {
+      "id": "wa-doko-desu-ka",
+      "jp": "トイレはどこですか。",
+      "kana": "トイレは どこですか。",
+      "cn": "厕所在哪里？",
+      "grammar": [
+        "どこ（哪里）",
+        "か（疑问）"
+      ],
+      "pattern": "○○はどこですか。",
+      "audio": "audio/sentences/sentence_wa-doko-desu-ka.mp3",
+      "scene": "survival",
+      "level": 1
+    },
+    {
+      "id": "mou-ichido-onegaishimasu",
+      "jp": "もう一度お願いします。",
+      "kana": "もういちど おねがいします。",
+      "cn": "请再说一遍。",
+      "grammar": [
+        "もう一度（再一次）",
+        "お願いします（拜托）"
+      ],
+      "pattern": "もう一度お願いします。",
+      "audio": "audio/sentences/sentence_mou-ichido-onegaishimasu.mp3",
+      "scene": "greeting",
+      "level": 1
+    },
+    {
+      "id": "arigatou-gozaimasu",
+      "jp": "ありがとうございます。",
+      "kana": "ありがとうございます。",
+      "cn": "非常感谢。",
+      "grammar": [
+        "ございます（郑重表达）"
+      ],
+      "pattern": "ありがとうございます。",
+      "audio": "audio/sentences/sentence_arigatou-gozaimasu.mp3",
+      "scene": "greeting",
+      "level": 1
+    },
+    {
+      "id": "wakarimasen-sentence",
+      "jp": "すみません、わかりません。",
+      "kana": "すみません、わかりません。",
+      "cn": "不好意思，我不明白。",
+      "grammar": [
+        "ません（否定）"
+      ],
+      "pattern": "すみません、わかりません。",
+      "audio": "audio/sentences/sentence_wakarimasen.mp3",
+      "scene": "greeting",
+      "level": 1
+    },
+    {
+      "id": "onigiri-wo-kudasai",
+      "jp": "おにぎりをください。",
+      "kana": "おにぎりを ください。",
+      "cn": "请给我饭团。",
+      "grammar": [
+        "を（宾语助词）",
+        "ください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_onigiri-wo-kudasai.mp3",
+      "scene": "convenience",
+      "level": 1
+    },
+    {
+      "id": "koohii-wo-onegaishimasu",
+      "jp": "コーヒーをお願いします。",
+      "kana": "コーヒーを おねがいします。",
+      "cn": "请给我咖啡。",
+      "grammar": [
+        "を（宾语助词）",
+        "お願いします（拜托）"
+      ],
+      "pattern": "○○をお願いします。",
+      "audio": "audio/sentences/sentence_koohii-wo-onegaishimasu.mp3",
+      "scene": "convenience",
+      "level": 1
+    },
+    {
+      "id": "fukuro-wo-kudasai",
+      "jp": "袋をください。",
+      "kana": "ふくろを ください。",
+      "cn": "请给我袋子。",
+      "grammar": [
+        "を（宾语助词）",
+        "ください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_fukuro-wo-kudasai.mp3",
+      "scene": "convenience",
+      "level": 1
+    },
+    {
+      "id": "menyuu-wo-kudasai",
+      "jp": "メニューをください。",
+      "kana": "メニューを ください。",
+      "cn": "请给我菜单。",
+      "grammar": [
+        "を（宾语助词）",
+        "ください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_menyuu-wo-kudasai.mp3",
+      "scene": "restaurant",
+      "level": 1
+    },
+    {
+      "id": "raamen-wo-kudasai",
+      "jp": "ラーメンをください。",
+      "kana": "ラーメンを ください。",
+      "cn": "请给我拉面。",
+      "grammar": [
+        "を（宾语助词）",
+        "ください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_raamen-wo-kudasai.mp3",
+      "scene": "restaurant",
+      "level": 1
+    },
+    {
+      "id": "okaikei-wo-onegaishimasu",
+      "jp": "お会計をお願いします。",
+      "kana": "おかいけいを おねがいします。",
+      "cn": "请结账。",
+      "grammar": [
+        "お会計（结账）",
+        "お願いします（拜托）"
+      ],
+      "pattern": "○○をお願いします。",
+      "audio": "audio/sentences/sentence_okaikei-wo-onegaishimasu.mp3",
+      "scene": "restaurant",
+      "level": 1
+    },
+    {
+      "id": "oishii-desu",
+      "jp": "ラーメンはおいしいです。",
+      "kana": "ラーメンは おいしいです。",
+      "cn": "拉面很好吃。",
+      "grammar": [
+        "は（提示主题）",
+        "おいしい（好吃）",
+        "です"
+      ],
+      "pattern": "○○はおいしいです。",
+      "audio": "audio/sentences/sentence_oishii-desu.mp3",
+      "scene": "restaurant",
+      "level": 1
+    },
+    {
+      "id": "kippu-wo-kudasai",
+      "jp": "切符をください。",
+      "kana": "きっぷを ください。",
+      "cn": "请给我车票。",
+      "grammar": [
+        "を（宾语助词）",
+        "ください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_kippu-wo-kudasai.mp3",
+      "scene": "train",
+      "level": 1
+    },
+    {
+      "id": "deguchi-wa-doko",
+      "jp": "出口はどこですか。",
+      "kana": "でぐちは どこですか。",
+      "cn": "出口在哪里？",
+      "grammar": [
+        "どこ（哪里）",
+        "か（疑问）"
+      ],
+      "pattern": "○○はどこですか。",
+      "audio": "audio/sentences/sentence_deguchi-wa-doko.mp3",
+      "scene": "train",
+      "level": 1
+    },
+    {
+      "id": "checkin-wo-onegaishimasu",
+      "jp": "チェックインをお願いします。",
+      "kana": "チェックインを おねがいします。",
+      "cn": "请办理入住。",
+      "grammar": [
+        "を（宾语助词）",
+        "お願いします（拜托）"
+      ],
+      "pattern": "○○をお願いします。",
+      "audio": "audio/sentences/sentence_checkin-wo-onegaishimasu.mp3",
+      "scene": "hotel",
+      "level": 1
+    },
+    {
+      "id": "heya-wa-doko",
+      "jp": "部屋はどこですか。",
+      "kana": "へやは どこですか。",
+      "cn": "房间在哪里？",
+      "grammar": [
+        "どこ（哪里）",
+        "か（疑问）"
+      ],
+      "pattern": "○○はどこですか。",
+      "audio": "audio/sentences/sentence_heya-wa-doko.mp3",
+      "scene": "hotel",
+      "level": 1
+    },
+    {
+      "id": "wifi-wa-arimasu-ka",
+      "jp": "Wi-Fiはありますか。",
+      "kana": "ワイファイは ありますか。",
+      "cn": "有无线网络吗？",
+      "grammar": [
+        "あります（有）",
+        "か（疑问）"
+      ],
+      "pattern": "○○はありますか。",
+      "audio": "audio/sentences/sentence_wifi-wa-arimasu-ka.mp3",
+      "scene": "hotel",
+      "level": 1
+    },
+    {
+      "id": "taoru-wo-kudasai",
+      "jp": "タオルをください。",
+      "kana": "タオルを ください。",
+      "cn": "请给我毛巾。",
+      "grammar": [
+        "を（宾语助词）",
+        "ください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_taoru-wo-kudasai.mp3",
+      "scene": "hotel",
+      "level": 1
+    },
+    {
+      "id": "shichaku-shite-mo-ii-desu-ka",
+      "jp": "試着してもいいですか。",
+      "kana": "しちゃくして もいいですか。",
+      "cn": "可以试穿吗？",
+      "grammar": [
+        "てもいいですか（可以…吗？）"
+      ],
+      "pattern": "○○してもいいですか。",
+      "audio": "audio/sentences/sentence_shichaku-shite-mo-ii-desu-ka.mp3",
+      "scene": "shop",
+      "level": 2
+    },
+    {
+      "id": "ookii-saizu-wa-arimasu-ka",
+      "jp": "もっと大きいサイズはありますか。",
+      "kana": "もっと おおきい サイズは ありますか。",
+      "cn": "有更大的尺码吗？",
+      "grammar": [
+        "もっと（更）",
+        "大きい（大）",
+        "ありますか（有吗）"
+      ],
+      "pattern": "もっと○○はありますか。",
+      "audio": "audio/sentences/sentence_ookii-saizu-wa-arimasu-ka.mp3",
+      "scene": "shop",
+      "level": 2
+    },
+    {
+      "id": "kore-wo-kudasai",
+      "jp": "これをください。",
+      "kana": "これを ください。",
+      "cn": "请给我这个。",
+      "grammar": [
+        "これ（这个）",
+        "をください（请给我）"
+      ],
+      "pattern": "○○をください。",
+      "audio": "audio/sentences/sentence_kore-wo-kudasai.mp3",
+      "scene": "shop",
+      "level": 1
+    },
+    {
+      "id": "kore-wa-takai-desu",
+      "jp": "これは高いです。",
+      "kana": "これは たかいです。",
+      "cn": "这个很贵。",
+      "grammar": [
+        "は（提示主题）",
+        "高い（贵）",
+        "です"
+      ],
+      "pattern": "○○は高いです。",
+      "audio": "audio/sentences/sentence_kore-wa-takai-desu.mp3",
+      "scene": "shop",
+      "level": 1
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "dlg-convenience-1",
+      "sceneId": "convenience",
+      "title": "在便利店买水",
+      "desc": "第一次在便利店买东西，和店员对话",
+      "characters": [
+        {
+          "id": "clerk",
+          "name": "店员",
+          "avatar": "🧑‍💼",
+          "voice": "ja-JP-KeitaNeural"
+        },
+        {
+          "id": "customer",
+          "name": "顾客",
+          "avatar": "🙋",
+          "voice": "ja-JP-NanamiNeural"
+        }
+      ],
+      "lines": [
+        {
+          "id": "l1",
+          "character": "clerk",
+          "jp": "いらっしゃいませ。",
+          "cn": "欢迎光临。",
+          "audio": "audio/dialogues/dlg-convenience-1_l1.mp3"
+        },
+        {
+          "id": "l2",
+          "character": "customer",
+          "jp": "すみません、水をください。",
+          "cn": "不好意思，请给我水。",
+          "audio": "audio/dialogues/dlg-convenience-1_l2.mp3"
+        },
+        {
+          "id": "l3",
+          "character": "clerk",
+          "jp": "はい、どうぞ。",
+          "cn": "好的，给您。",
+          "audio": "audio/dialogues/dlg-convenience-1_l3.mp3"
+        },
+        {
+          "id": "l4",
+          "character": "customer",
+          "jp": "いくらですか。",
+          "cn": "多少钱？",
+          "audio": "audio/dialogues/dlg-convenience-1_l4.mp3"
+        },
+        {
+          "id": "l5",
+          "character": "clerk",
+          "jp": "１１０円です。",
+          "cn": "110 日元。",
+          "audio": "audio/dialogues/dlg-convenience-1_l5.mp3"
+        },
+        {
+          "id": "l6",
+          "character": "customer",
+          "jp": "ありがとうございます。",
+          "cn": "谢谢。",
+          "audio": "audio/dialogues/dlg-convenience-1_l6.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dlg-restaurant-1",
+      "sceneId": "restaurant",
+      "title": "在餐厅点餐",
+      "desc": "一个人去拉面店，点一碗拉面",
+      "characters": [
+        {
+          "id": "clerk",
+          "name": "店员",
+          "avatar": "👨‍🍳",
+          "voice": "ja-JP-KeitaNeural"
+        },
+        {
+          "id": "customer",
+          "name": "顾客",
+          "avatar": "🙋",
+          "voice": "ja-JP-NanamiNeural"
+        }
+      ],
+      "lines": [
+        {
+          "id": "l1",
+          "character": "clerk",
+          "jp": "いらっしゃいませ。何名様ですか。",
+          "cn": "欢迎光临。请问几位？",
+          "audio": "audio/dialogues/dlg-restaurant-1_l1.mp3"
+        },
+        {
+          "id": "l2",
+          "character": "customer",
+          "jp": "一人です。",
+          "cn": "一位。",
+          "audio": "audio/dialogues/dlg-restaurant-1_l2.mp3"
+        },
+        {
+          "id": "l3",
+          "character": "customer",
+          "jp": "ラーメンをください。",
+          "cn": "请给我拉面。",
+          "audio": "audio/dialogues/dlg-restaurant-1_l3.mp3"
+        },
+        {
+          "id": "l4",
+          "character": "clerk",
+          "jp": "かしこまりました。",
+          "cn": "好的，明白了。",
+          "audio": "audio/dialogues/dlg-restaurant-1_l4.mp3"
+        },
+        {
+          "id": "l5",
+          "character": "customer",
+          "jp": "お会計をお願いします。",
+          "cn": "请结账。",
+          "audio": "audio/dialogues/dlg-restaurant-1_l5.mp3"
+        },
+        {
+          "id": "l6",
+          "character": "clerk",
+          "jp": "５００円です。",
+          "cn": "500 日元。",
+          "audio": "audio/dialogues/dlg-restaurant-1_l6.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dlg-train-1",
+      "sceneId": "train",
+      "title": "在车站买票",
+      "desc": "在售票窗口买车票，问出口方向",
+      "characters": [
+        {
+          "id": "clerk",
+          "name": "站员",
+          "avatar": "🧑‍💼",
+          "voice": "ja-JP-KeitaNeural"
+        },
+        {
+          "id": "customer",
+          "name": "顾客",
+          "avatar": "🙋",
+          "voice": "ja-JP-NanamiNeural"
+        }
+      ],
+      "lines": [
+        {
+          "id": "l1",
+          "character": "customer",
+          "jp": "すみません、切符をください。",
+          "cn": "不好意思，请给我车票。",
+          "audio": "audio/dialogues/dlg-train-1_l1.mp3"
+        },
+        {
+          "id": "l2",
+          "character": "clerk",
+          "jp": "どこまでですか。",
+          "cn": "到哪里？",
+          "audio": "audio/dialogues/dlg-train-1_l2.mp3"
+        },
+        {
+          "id": "l3",
+          "character": "customer",
+          "jp": "東京までお願いします。",
+          "cn": "请到东京。",
+          "audio": "audio/dialogues/dlg-train-1_l3.mp3"
+        },
+        {
+          "id": "l4",
+          "character": "clerk",
+          "jp": "５００円です。",
+          "cn": "500 日元。",
+          "audio": "audio/dialogues/dlg-train-1_l4.mp3"
+        },
+        {
+          "id": "l5",
+          "character": "customer",
+          "jp": "出口はどこですか。",
+          "cn": "出口在哪里？",
+          "audio": "audio/dialogues/dlg-train-1_l5.mp3"
+        },
+        {
+          "id": "l6",
+          "character": "clerk",
+          "jp": "あちらです。",
+          "cn": "在那边。",
+          "audio": "audio/dialogues/dlg-train-1_l6.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dlg-hotel-1",
+      "sceneId": "hotel",
+      "title": "酒店办理入住",
+      "desc": "第一次入住日本酒店，办理入住、要毛巾",
+      "characters": [
+        {
+          "id": "front",
+          "name": "前台",
+          "avatar": "🧑‍💼",
+          "voice": "ja-JP-KeitaNeural"
+        },
+        {
+          "id": "guest",
+          "name": "客人",
+          "avatar": "🧳",
+          "voice": "ja-JP-NanamiNeural"
+        }
+      ],
+      "lines": [
+        {
+          "id": "l1",
+          "character": "guest",
+          "jp": "チェックインをお願いします。",
+          "cn": "请办理入住。",
+          "audio": "audio/dialogues/dlg-hotel-1_l1.mp3"
+        },
+        {
+          "id": "l2",
+          "character": "front",
+          "jp": "お名前は何ですか。",
+          "cn": "请问您的姓名？",
+          "audio": "audio/dialogues/dlg-hotel-1_l2.mp3"
+        },
+        {
+          "id": "l3",
+          "character": "guest",
+          "jp": "田中です。",
+          "cn": "我是田中。",
+          "audio": "audio/dialogues/dlg-hotel-1_l3.mp3"
+        },
+        {
+          "id": "l4",
+          "character": "front",
+          "jp": "はい、こちらです。",
+          "cn": "好的，这是您的房间。",
+          "audio": "audio/dialogues/dlg-hotel-1_l4.mp3"
+        },
+        {
+          "id": "l5",
+          "character": "guest",
+          "jp": "タオルをください。",
+          "cn": "请给我毛巾。",
+          "audio": "audio/dialogues/dlg-hotel-1_l5.mp3"
+        },
+        {
+          "id": "l6",
+          "character": "front",
+          "jp": "かしこまりました。",
+          "cn": "好的，明白了。",
+          "audio": "audio/dialogues/dlg-hotel-1_l6.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dlg-shop-1",
+      "sceneId": "shop",
+      "title": "在商店买衣服",
+      "desc": "试穿、问尺码、决定购买",
+      "characters": [
+        {
+          "id": "clerk",
+          "name": "店员",
+          "avatar": "🧑‍💼",
+          "voice": "ja-JP-KeitaNeural"
+        },
+        {
+          "id": "customer",
+          "name": "顾客",
+          "avatar": "🙋",
+          "voice": "ja-JP-NanamiNeural"
+        }
+      ],
+      "lines": [
+        {
+          "id": "l1",
+          "character": "customer",
+          "jp": "試着してもいいですか。",
+          "cn": "可以试穿吗？",
+          "audio": "audio/dialogues/dlg-shop-1_l1.mp3"
+        },
+        {
+          "id": "l2",
+          "character": "clerk",
+          "jp": "どうぞ。",
+          "cn": "请。",
+          "audio": "audio/dialogues/dlg-shop-1_l2.mp3"
+        },
+        {
+          "id": "l3",
+          "character": "customer",
+          "jp": "もっと大きいサイズはありますか。",
+          "cn": "有更大的尺码吗？",
+          "audio": "audio/dialogues/dlg-shop-1_l3.mp3"
+        },
+        {
+          "id": "l4",
+          "character": "clerk",
+          "jp": "はい、あります。",
+          "cn": "有的。",
+          "audio": "audio/dialogues/dlg-shop-1_l4.mp3"
+        },
+        {
+          "id": "l5",
+          "character": "customer",
+          "jp": "これをください。",
+          "cn": "请给我这个。",
+          "audio": "audio/dialogues/dlg-shop-1_l5.mp3"
+        },
+        {
+          "id": "l6",
+          "character": "clerk",
+          "jp": "ありがとうございます。",
+          "cn": "谢谢。",
+          "audio": "audio/dialogues/dlg-shop-1_l6.mp3"
+        }
+      ]
+    }
+  ]
+}
